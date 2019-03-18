@@ -1,0 +1,23 @@
+{
+  "name": "d3dataviz",
+  "version": "1.0.0",
+  "description": "d3dataviz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundestmammal/d3dataviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundestmammal/d3dataviz/issues"
+  },
+  "homepage": "https://github.com/soundestmammal/d3dataviz#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
